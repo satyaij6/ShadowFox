@@ -1,6 +1,6 @@
 # Image Classification on CIFAR-10 (PyTorch)
 
-This project trains a simple CNN classifier on CIFAR-10 using PyTorch. It can automatically use your local `cifar-10-python.tar.gz` (placed in the project root) or download the dataset if it is not found.
+This project trains a simple CNN classifier on CIFAR-10 using PyTorch. It can automatically use your local `cifar-10-python.tar.gz` (placed in the project root) or download the dataset from here "https://www.cs.toronto.edu/~kriz/cifar.html".
 
 ## Quick Start (Windows PowerShell)
 
