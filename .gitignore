@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+.venvv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Data and artifacts
+data/
+outputs/
+
+# Datasets and archives
+cifar-10-python.tar.gz
+*.tar
+*.tar.gz
+*.zip
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
